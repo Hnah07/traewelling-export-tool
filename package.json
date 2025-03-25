@@ -1,0 +1,21 @@
+{
+  "name": "traewelling-data-exporter",
+  "version": "1.0.0",
+  "description": "Export your statuses from Traewelling in the official format",
+  "main": "fetchTraewellingData.js",
+  "scripts": {
+    "fetch": "node fetchTraewellingData.js"
+  },
+  "keywords": [
+    "traewelling",
+    "export",
+    "api",
+    "train",
+    "journey"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
