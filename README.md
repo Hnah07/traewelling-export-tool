@@ -23,7 +23,7 @@ A Node.js script to fetch and export your statuses from Traewelling in the offic
 
 ```bash
 git clone https://github.com/Hnah07/traewelling-export-tool.git
-cd traewelling-data-exporter
+cd traewelling-export-tool
 ```
 
 2. Install dependencies:
